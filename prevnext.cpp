@@ -9,7 +9,7 @@ void number()
 {
     int i, num, nums[1000];
     
-    cout << "The Number Of Numbers You Want To Enter : ";
+    cout << "Enter the number of digits : ";
     
     cin >> num;
     
@@ -35,7 +35,7 @@ void alphabet()
     char alphabet[1000];
     int amount, i;
     
-    cout << "Number Of Alphabet You Want To Enter : ";
+    cout << "Enter the number of the alphabet : ";
     
     cin >> amount;
     
@@ -66,6 +66,11 @@ int main()
     
     int firstcondition;
     
+    cout << "Alphabet or Number" << endl << endl;
+
+    cout << "Number   [0]" << endl;
+    cout << "Alphabet [1]" << endl << endl;
+
     cin >> firstcondition;
     
     system("cls");
