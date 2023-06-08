@@ -1,0 +1,260 @@
+ASCII Table
+
+Decimal	Binary		Octal	Hex	Char	Description
+
+00	0		0	0	NULL	Null character
+01	1		1	1	SOH	Start of Header
+02	10		2	2	STX	Start of Text
+03	11		3	3	ETX	End of Text, hearts card suit
+04	100		4	4	EOT	End of Transmission, diamonds card suit
+05	101		5	5	ENQ	Enquiry, clubs card suit
+06	110		6	6	ACK	Acknowledgement, spade card suit
+07	111		7	7	BEL	Bell
+08	1000		10	8	BS	Backspace
+09	1001		11	9	HT	Horizontal Tab
+10	1010		12	a	LF	Line feed
+11	1011		13	b	VT	Vertical Tab, male symbol, symbol for Mars
+12	1100		14	c	FF	Form feed, female symbol, symbol for Venus
+13	1101		15	d	CR	Carriage return
+14	1110		16	e	SO	Shift Out
+15	1111		17	f	SI	Shift In
+16	10000		20	10	DLE	Data link escape
+17	10001		21	11	DC1	Device control 1
+18	10010		22	12	DC2	Device control 2
+19	10011		23	13	DC3	Device control 3
+20	10100		24	14	DC4	Device control 4
+21	10101		25	15	NAK	NAK Negative-acknowledge
+22	10110		26	16	SYN	Synchronous idle
+23	10111		27	17	ETB	End of trans. block
+24	11000		30	18	CAN	Cancel
+25	11001		31	19	EM	End of medium
+26	11010		32	1a	SUB	Substitute
+27	11011		33	1b	ESC	Escape
+28	11100		34	1c	FS	File separator
+29	11101		35	1d	GS	Group separator
+30	11110		36	1e	RS	Record separator
+31	11111		37	1f	US	Unit separator
+32	100000		40	20	space	Space
+33	100001		41	21	!	Exclamation mark
+34	100010		42	22	"	Double quotes ; Quotation mark ; speech marks
+35	100011		43	23	#	Number sign
+36	100100		44	24	$	Dollar sign
+37	100101		45	25	%	Percent sign
+38	100110		46	26	&	Ampersand
+39	100111		47	27	'	Single quote or Apostrophe
+40	101000		50	28	(	round brackets or parentheses, opening round bracket
+41	101001		51	29	)	parentheses or round brackets, closing parentheses
+42	101010		52	2a	*	Asterisk
+43	101011		53	2b	+	Plus sign
+44	101100		54	2c	,	Comma
+45	101101		55	2d	-	Hyphen, minus sign
+46	101110		56	2e	.	Dot, full stop
+47	101111		57	2f	/	Slash, forward slash, fraction bar, division slash
+48	110000		60	30	0	number zero
+49	110001		61	31	1	number one
+50	110010		62	32	2	number two
+51	110011		63	33	3	number three
+52	110100		64	34	4	number four
+53	110101		65	35	5	number five
+54	110110		66	36	6	number six
+55	110111		67	37	7	number seven
+56	111000		70	38	8	number eight
+57	111001		71	39	9	number nine
+58	111010		72	3a	:	Colon
+59	111011		73	3b	;	Semicolon
+60	111100		74	3c	<	Less-than sign
+61	111101		75	3d	=	Equals sign
+62	111110		76	3e	>	Greater-than sign ; Inequality
+63	111111		77	3f	?	Question mark
+64	1000000		100	40	@	At sign
+65	1000001		101	41	A	Capital letter A
+66	1000010		102	42	B	Capital letter B
+67	1000011		103	43	C	Capital letter C
+68	1000100		104	44	D	Capital letter D
+69	1000101		105	45	E	Capital letter E
+70	1000110		106	46	F	Capital letter F
+71	1000111		107	47	G	Capital letter G
+72	1001000		110	48	H	Capital letter H
+73	1001001		111	49	I	Capital letter I
+74	1001010		112	4a	J	Capital letter J
+75	1001011		113	4b	K	Capital letter K
+76	1001100		114	4c	L	Capital letter L
+77	1001101		115	4d	M	Capital letter M
+78	1001110		116	4e	N	Capital letter N
+79	1001111		117	4f	O	Capital letter O
+80	1010000		120	50	P	Capital letter P
+81	1010001		121	51	Q	Capital letter Q
+82	1010010		122	52	R	Capital letter R
+83	1010011		123	53	S	Capital letter S
+84	1010100		124	54	T	Capital letter T
+85	1010101		125	55	U	Capital letter U
+86	1010110		126	56	V	Capital letter V
+87	1010111		127	57	W	Capital letter W
+88	1011000		130	58	X	Capital letter X
+89	1011001		131	59	Y	Capital letter Y
+90	1011010		132	5a	Z	Capital letter Z
+91	1011011		133	5b	[	square brackets or box brackets, opening bracket
+92	1011100		134	5c	\	Backslash, reverse slash
+93	1011101		135	5d	]	box brackets or square brackets, closing bracket
+94	1011110		136	5e	^	Circumflex accent or Caret
+95	1011111		137	5f	_	underscore, understrike, underbar or low line
+96	1100000		140	60	`	Grave accent
+97	1100001		141	61	a	Lowercase letter a, minuscule a
+98	1100010		142	62	b	Lowercase letter b, minuscule b
+99	1100011		143	63	c	Lowercase letter c, minuscule c
+100	1100100		144	64	d	Lowercase letter d, minuscule d
+101	1100101		145	65	e	Lowercase letter e, minuscule e
+102	1100110		146	66	f	Lowercase letter f, minuscule f
+103	1100111		147	67	g	Lowercase letter g, minuscule g
+104	1101000		150	68	h	Lowercase letter h, minuscule h
+105	1101001		151	69	i	Lowercase letter i, minuscule i
+106	1101010		152	6a	j	Lowercase letter j, minuscule j
+107	1101011		153	6b	k	Lowercase letter k, minuscule k
+108	1101100		154	6c	l	Lowercase letter l, minuscule l
+109	1101101		155	6d	m	Lowercase letter m, minuscule m
+110	1101110		156	6e	n	Lowercase letter n, minuscule n
+111	1101111		157	6f	o	Lowercase letter o, minuscule o
+112	1110000		160	70	p	Lowercase letter p, minuscule p
+113	1110001		161	71	q	Lowercase letter q, minuscule q
+114	1110010		162	72	r	Lowercase letter r, minuscule r
+115	1110011		163	73	s	Lowercase letter s, minuscule s
+116	1110100		164	74	t	Lowercase letter t, minuscule t
+117	1110101		165	75	u	Lowercase letter u, minuscule u
+118	1110110		166	76	v	Lowercase letter v, minuscule v
+119	1110111		167	77	w	Lowercase letter w, minuscule w
+120	1111000		170	78	x	Lowercase letter x, minuscule x
+121	1111001		171	79	y	Lowercase letter y, minuscule y
+122	1111010		172	7a	z	Lowercase letter z, minuscule z
+123	1111011		173	7b	{	braces or curly brackets, opening braces
+124	1111100		174	7c	|	vertical-bar, vbar, vertical line or vertical slash
+125	1111101		175	7d	}	curly brackets or braces, closing curly brackets
+126	1111110		176	7e	~	Tilde ; swung dash
+127	1111111		177	7f	DEL	Delete
+128	10000000	200	80	Ç	Majuscule C-cedilla
+129	10000001	201	81	ü	letter u with umlaut or diaeresis, u-umlaut
+130	10000010	202	82	é	letter e with acute accent or e-acute
+131	10000011	203	83	â	letter a with circumflex accent or a-circumflex
+132	10000100	204	84	ä	letter a with umlaut or diaeresis, a-umlaut
+133	10000101	205	85	à	letter a with grave accent
+134	10000110	206	86	å	letter a with a ring
+135	10000111	207	87	ç	Minuscule c-cedilla
+136	10001000	210	88	ê	letter e with circumflex accent or e-circumflex
+137	10001001	211	89	ë	letter e with umlaut or diaeresis ; e-umlauts
+138	10001010	212	8a	è	letter e with grave accent
+139	10001011	213	8b	ï	letter i with umlaut or diaeresis ; i-umlaut
+140	10001100	214	8c	î	letter i with circumflex accent or i-circumflex
+141	10001101	215	8d	ì	letter i with grave accent
+142	10001110	216	8e	Ä	letter A with umlaut or diaeresis ; A-umlaut
+143	10001111	217	8f	Å	Capital letter A with a ring
+144	10010000	220	90	É	Capital letter E with acute accent or E-acute
+145	10010001	221	91	æ	Latin diphthong ae in lowercase
+146	10010010	222	92	Æ	Latin diphthong AE in uppercase
+147	10010011	223	93	ô	letter o with circumflex accent or o-circumflex
+148	10010100	224	94	ö	letter o with umlaut or diaeresis ; o-umlaut
+149	10010101	225	95	ò	letter o with grave accent
+150	10010110	226	96	û	letter u with circumflex accent or u-circumflex
+151	10010111	227	97	ù	letter u with grave accent
+152	10011000	230	98	ÿ	Lowercase letter y with diaeresis
+153	10011001	231	99	Ö	Letter O with umlaut or diaeresis ; O-umlaut
+154	10011010	232	9a	Ü	Letter U with umlaut or diaeresis ; U-umlaut
+155	10011011	233	9b	ø	Lowercase slashed zero or empty set
+156	10011100	234	9c	£	Pound sign ; symbol for the pound sterling
+157	10011101	235	9d	Ø	Uppercase slashed zero or empty set
+158	10011110	236	9e	×	Multiplication sign
+159	10011111	237	9f	ƒ	Function sign ; f with hook sign ; florin sign
+160	10100000	240	a0	á	Lowercase letter a with acute accent or a-acute
+161	10100001	241	a1	í	Lowercase letter i with acute accent or i-acute
+162	10100010	242	a2	ó	Lowercase letter o with acute accent or o-acute
+163	10100011	243	a3	ú	Lowercase letter u with acute accent or u-acute
+164	10100100	244	a4	ñ	eñe, enie, spanish letter enye, lowercase n with tilde
+165	10100101	245	a5	Ñ	Spanish letter enye, uppercase N with tilde, EÑE, enie
+166	10100110	246	a6	ª	feminine ordinal indicator
+167	10100111	247	a7	º	masculine ordinal indicator
+168	10101000	250	a8	¿	Inverted question marks
+169	10101001	251	a9	®	Registered trademark symbol
+170	10101010	252	aa	¬	Logical negation symbol
+171	10101011	253	ab	½	One half
+172	10101100	254	ac	¼	Quarter, one fourth
+173	10101101	255	ad	¡	Inverted exclamation marks
+174	10101110	256	ae	«	Angle quotes, guillemets, right-pointing quotation mark
+175	10101111	257	af	»	Guillemets, angle quotes, left-pointing quotation marks
+176	10110000	260	b0	░	Graphic character, low density dotted
+177	10110001	261	b1	▒	Graphic character, medium density dotted
+178	10110010	262	b2	▓	Graphic character, high density dotted
+179	10110011	263	b3	│	Box drawing character single vertical line
+180	10110100	264	b4	┤	Box drawing character single vertical and left line
+181	10110101	265	b5	Á	Capital letter A with acute accent or A-acute
+182	10110110	266	b6	Â	Letter A with circumflex accent or A-circumflex
+183	10110111	267	b7	À	Letter A with grave accent
+184	10111000	270	b8	©	Copyright symbol
+185	10111001	271	b9	╣	Box drawing character double line vertical and left
+186	10111010	272	ba	║	Box drawing character double vertical line
+187	10111011	273	bb	╗	Box drawing character double line upper right corner
+188	10111100	274	bc	╝	Box drawing character double line lower right corner
+189	10111101	275	bd	¢	Cent symbol
+190	10111110	276	be	¥	YEN and YUAN sign
+191	10111111	277	bf	┐	Box drawing character single line upper right corner
+192	11000000	300	c0	└	Box drawing character single line lower left corner
+193	11000001	301	c1	┴	Box drawing character single line horizontal and up
+194	11000010	302	c2	┬	Box drawing character single line horizontal down
+195	11000011	303	c3	├	Box drawing character single line vertical and right
+196	11000100	304	c4	─	Box drawing character single horizontal line
+197	11000101	305	c5	┼	Box drawing character single line horizontal vertical
+198	11000110	306	c6	ã	Lowercase letter a with tilde or a-tilde
+199	11000111	307	c7	Ã	Capital letter A with tilde or A-tilde
+200	11001000	310	c8	╚	Box drawing character double line lower left corner
+201	11001001	311	c9	╔	Box drawing character double line upper left corner
+202	11001010	312	ca	╩	Box drawing character double line horizontal and up
+203	11001011	313	cb	╦	Box drawing character double line horizontal down
+204	11001100	314	cc	╠	Box drawing character double line vertical and right
+205	11001101	315	cd	═	Box drawing character double horizontal line
+206	11001110	316	ce	╬	Box drawing character double line horizontal vertical
+207	11001111	317	cf	¤	Generic currency sign
+208	11010000	320	d0	ð	Lowercase letter eth
+209	11010001	321	d1	Ð	Capital letter Eth
+210	11010010	322	d2	Ê	Letter E with circumflex accent or E-circumflex
+211	11010011	323	d3	Ë	Letter E with umlaut or diaeresis, E-umlaut
+212	11010100	324	d4	È	Capital letter E with grave accent
+213	11010101	325	d5	ı	Lowercase dot less i
+214	11010110	326	d6	Í	Capital letter I with acute accent or I-acute
+215	11010111	327	d7	Î	Letter I with circumflex accent or I-circumflex
+216	11011000	330	d8	Ï	Letter I with umlaut or diaeresis ; I-umlaut
+217	11011001	331	d9	┘	Box drawing character single line lower right corner
+218	11011010	332	da	┌	Box drawing character single line upper left corner
+219	11011011	333	db	█	Block, graphic character
+220	11011100	334	dc	▄	Bottom half block
+221	11011101	335	dd	¦	Vertical broken bar
+222	11011110	336	de	Ì	Capital letter I with grave accent
+223	11011111	337	df	▀	Top half block
+224	11100000	340	e0	Ó	Capital letter O with acute accent or O-acute
+225	11100001	341	e1	ß	Letter Eszett ; scharfes S or sharp S
+226	11100010	342	e2	Ô	Letter O with circumflex accent or O-circumflex
+227	11100011	343	e3	Ò	Capital letter O with grave accent
+228	11100100	344	e4	õ	Lowercase letter o with tilde or o-tilde
+229	11100101	345	e5	Õ	Capital letter O with tilde or O-tilde
+230	11100110	346	e6	µ	Lowercase letter Mu ; micro sign or micron
+231	11100111	347	e7	þ	Lowercase letter Thorn
+232	11101000	350	e8	Þ	Capital letter Thorn
+233	11101001	351	e9	Ú	Capital letter U with acute accent or U-acute
+234	11101010	352	ea	Û	Letter U with circumflex accent or U-circumflex
+235	11101011	353	eb	Ù	Capital letter U with grave accent
+236	11101100	354	ec	ý	Lowercase letter y with acute accent
+237	11101101	355	ed	Ý	Capital letter Y with acute accent
+238	11101110	356	ee	¯	Macron symbol
+239	11101111	357	ef	´	Acute accent
+240	11110000	360	f0	≡	Congruence relation symbol
+241	11110001	361	f1	±	Plus-minus sign
+242	11110010	362	f2	‗	underline or underscore
+243	11110011	363	f3	¾	three quarters, three-fourths
+244	11110100	364	f4	¶	Paragraph sign or pilcrow ; end paragraph mark
+245	11110101	365	f5	§	Section sign
+246	11110110	366	f6	÷	The division sign ; Obelus
+247	11110111	367	f7	¸	cedilla
+248	11111000	370	f8	°	Degree symbol
+249	11111001	371	f9	¨	Diaresis
+250	11111010	372	fa	·	Interpunct or space dot
+251	11111011	373	fb	¹	Superscript one, exponent 1, first power
+252	11111100	374	fc	³	Superscript three, exponent 3, cube, third power
+253	11111101	375	fd	²	Superscript two, exponent 2, square, second power
+254	11111110	376	fe	■	black square
+255	11111111	377	ff	nbsp	Non-breaking space or no-break space
